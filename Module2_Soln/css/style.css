@@ -3,3 +3,12 @@
 	font-family: "Times New Roman", Georgia, Serif;
 	text-align: center;
 }
+h1{
+	font-size: 1.75em;
+}
+div{
+	position: relative;
+}
+.row{
+	width :100%;
+}
