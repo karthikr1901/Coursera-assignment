@@ -6,3 +6,10 @@ p{
   margin: 10px 10px 20px 10px;
   text-align: justify;
 }
+
+#chicken, #beef, #sushi{
+  border: 1px solid #000000;  
+  margin-bottom: 10px;
+}
+
+
