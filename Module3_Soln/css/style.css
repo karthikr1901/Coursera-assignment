@@ -56,3 +56,22 @@ p{
   margin-bottom: 0;
   line-height: .75;
 }
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+  border: 1px solid #ffffff;
+  background-color: #61122f;
+}
+
+@media (max-width: 767px) {
+  #collapsable-nav{
+    background-color: #61122f;
+  }
+}
